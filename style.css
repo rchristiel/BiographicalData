@@ -1,21 +1,19 @@
-div1
+div.1
 {
 	width: 400px;
 	height: 400px;
 	background-color: red;
 	
 }
-div2
+div.2
 {
 	width: 400px;
 	height: 400px;
-		background-color: green;
-
-}div3
+	background-color: green;
+}
+div.3
 {
 	width: 400px;
 	height: 400px;
-		background-color: yellow;
-
-	
+	background-color: yellow;
 }
