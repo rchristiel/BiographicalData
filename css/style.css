@@ -19,3 +19,14 @@ div2
 
 	
 }
+body 
+{
+  background-color: #ffffcc;
+  margin-left: 10px;
+  margin-right: 10px;
+	margin-bottom: 200px;
+	margin-top: 20px;
+	border-style: solid;
+	border-width: 10px;
+	padding: 30px
+}
